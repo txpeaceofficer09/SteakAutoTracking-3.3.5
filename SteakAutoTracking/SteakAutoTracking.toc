@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Steak Auto Tracking
+## Notes: Automatically track the creature type the hunter targets.
+## Author: Soonbesteak
+## Version: 1.0.0
+Core.lua
